@@ -1,0 +1,807 @@
+[{
+  "_id": {
+    "$oid": "67822c90d90b13ede862418c"
+  },
+  "country": "China",
+  "type": "攻擊機",
+  "genre": "殲轟-7",
+  "Performance": {
+    "maximum_speed": "1,808公里/小時（1.75馬赫）",
+    "practical_ceiling": "16,000米（51,180英尺）",
+    "maximum_range": "3,700公里（1,970海里）"
+  },
+  "Weapons": {
+    "cannon": "一門GSh-23L機炮，裝彈300發",
+    "rocket": "57毫米/90毫米口徑各類型航空火箭彈",
+    "missile": "9個武器掛點霹靂-5短程空對空導彈霹靂-8短程空對空導彈霹靂-9短程空對空導彈鷹擊8K反艦導彈鷹擊81反艦導彈KH-29T反艦導彈 C-704亚音速反舰導彈C-705亚音速反舰導彈 CM-704KG空對地導彈 CM802A空對地導彈KD-88空射通用對地導彈鷹擊-91重型反艦/反幅射導彈雷電-10（LD-10）反輻射飛彈 等等",
+    "bomb": "各式航空炸彈雷霆精确制导炸弹（LT PGB）FT-2/3/6 飞腾精确制导炸弹（FT PGB）",
+    "other": "232H雷達（原型機、先導量產型）JL-10A 「神鷹」多普勒脈衝被動電子掃描陣列雷達（量產型）ECM莢艙"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822c92d90b13ede862418d"
+  },
+  "country": "China",
+  "type": "轟炸機",
+  "genre": "轟-6",
+  "Performance": {
+    "maximum_speed": "1,050公里每小時（650英里每小時）",
+    "practical_ceiling": "12,800米（42,000英尺）",
+    "maximum_range": "7,200公里（4,500英里）",
+    "wing_loading": "460公斤每平方米（94英磅每平方英尺）"
+  },
+  "Weapons": {
+    "cannon": "6-7具AM-23型23公釐雷達控制機砲",
+    "missile": "空对地导弹：Kh-20、Kh-22Kh-26、Kh-55、CJ10、CJ20、YJ12、YJ83",
+    "bomb": "60枚FAB-250航空炸彈，或30枚FAB-500炸彈。",
+    "other": "單位造價 1600萬美元载弹量（包括飞弹）：最多15,000公斤（33,000磅）"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822c99d90b13ede862418e"
+  },
+  "country": "China",
+  "type": "電戰機",
+  "genre": "殲-16D",
+  "Performance": {
+    "combat_radius": "1,850公里",
+    "cruising_radius": "3,650公里",
+    "wing_loading": "401 kg/m²",
+    "rolling_distance": "560m",
+    "maximum_speed": "1,808公里/小時（1.75馬赫）",
+    "practical_ceiling": "16,000米（51,180英尺）",
+    "maximum_range": "3,700公里（1,970海里）"
+  },
+  "Weapons": {
+    "cannon": "一門GSh-23L機炮，裝彈300發",
+    "missile": "9個武器掛點霹靂-5短程空對空導彈霹靂-8短程空對空導彈霹靂-9短程空對空導彈鷹擊8K反艦導彈鷹擊81反艦導彈KH-29T反艦導彈 C-704亚音速反舰導彈C-705亚音速反舰導彈 CM-704KG空對地導彈 CM802A空對地導彈KD-88空射通用對地導彈鷹擊-91重型反艦/反幅射導彈雷電-10（LD-10）反輻射飛彈 等等",
+    "bomb": "各式航空炸彈雷霆精确制导炸弹（LT PGB）FT-2/3/6 飞腾精确制导炸弹（FT PGB）",
+    "rocket": "57毫米/90毫米口徑各類型航空火箭彈",
+    "other": "232H雷達（原型機、先導量產型）JL-10A 「神鷹」多普勒脈衝被動電子掃描陣列雷達（量產型）ECM莢艙"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822c9fd90b13ede862418f"
+  },
+  "country": "China",
+  "type": "電戰機",
+  "genre": "殲轟-7II",
+  "Performance": {
+    "combat_radius": "1,850公里",
+    "cruising_radius": "3,650公里",
+    "wing_loading": "401 kg/m²",
+    "rolling_distance": "560m",
+    "maximum_speed": "1,808公里/小時（1.75馬赫）",
+    "practical_ceiling": "16,000米（51,180英尺）",
+    "maximum_range": "3,700公里（1,970海里）"
+  },
+  "Weapons": {
+    "cannon": "一門GSh-23L機炮，裝彈300發",
+    "missile": "9個武器掛點霹靂-5短程空對空導彈霹靂-8短程空對空導彈霹靂-9短程空對空導彈鷹擊8K反艦導彈鷹擊81反艦導彈KH-29T反艦導彈 C-704亚音速反舰導彈C-705亚音速反舰導彈 CM-704KG空對地導彈 CM802A空對地導彈KD-88空射通用對地導彈鷹擊-91重型反艦/反幅射導彈雷電-10（LD-10）反輻射飛彈 等等",
+    "bomb": "各式航空炸彈雷霆精确制导炸弹（LT PGB）FT-2/3/6 飞腾精确制导炸弹（FT PGB）",
+    "rocket": "57毫米/90毫米口徑各類型航空火箭彈",
+    "other": "232H雷達（原型機、先導量產型）JL-10A 「神鷹」多普勒脈衝被動電子掃描陣列雷達（量產型）ECM莢艙"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822ca5d90b13ede8624190"
+  },
+  "country": "China",
+  "type": "電戰機",
+  "genre": "運-9G",
+  "Performance": {
+    "combat_radius": "1,850公里",
+    "cruising_radius": "3,650公里",
+    "wing_loading": "401 kg/m²",
+    "rolling_distance": "560m",
+    "maximum_speed": "1,808公里/小時（1.75馬赫）",
+    "practical_ceiling": "16,000米（51,180英尺）",
+    "maximum_range": "3,700公里（1,970海里）"
+  },
+  "Weapons": {
+    "cannon": "一門GSh-23L機炮，裝彈300發",
+    "missile": "9個武器掛點霹靂-5短程空對空導彈霹靂-8短程空對空導彈霹靂-9短程空對空導彈鷹擊8K反艦導彈鷹擊81反艦導彈KH-29T反艦導彈 C-704亚音速反舰導彈C-705亚音速反舰導彈 CM-704KG空對地導彈 CM802A空對地導彈KD-88空射通用對地導彈鷹擊-91重型反艦/反幅射導彈雷電-10（LD-10）反輻射飛彈 等等",
+    "bomb": "各式航空炸彈雷霆精确制导炸弹（LT PGB）FT-2/3/6 飞腾精确制导炸弹（FT PGB）",
+    "rocket": "57毫米/90毫米口徑各類型航空火箭彈",
+    "other": "232H雷達（原型機、先導量產型）JL-10A 「神鷹」多普勒脈衝被動電子掃描陣列雷達（量產型）ECM莢艙"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822cabd90b13ede8624191"
+  },
+  "country": "China",
+  "type": "電戰機",
+  "genre": "運-8G",
+  "Performance": {
+    "combat_radius": "1,850公里",
+    "cruising_radius": "3,650公里",
+    "wing_loading": "401 kg/m²",
+    "rolling_distance": "560m",
+    "maximum_speed": "1,808公里/小時（1.75馬赫）",
+    "practical_ceiling": "16,000米（51,180英尺）",
+    "maximum_range": "3,700公里（1,970海里）"
+  },
+  "Weapons": {
+    "cannon": "一門GSh-23L機炮，裝彈300發",
+    "missile": "9個武器掛點霹靂-5短程空對空導彈霹靂-8短程空對空導彈霹靂-9短程空對空導彈鷹擊8K反艦導彈鷹擊81反艦導彈KH-29T反艦導彈 C-704亚音速反舰導彈C-705亚音速反舰導彈 CM-704KG空對地導彈 CM802A空對地導彈KD-88空射通用對地導彈鷹擊-91重型反艦/反幅射導彈雷電-10（LD-10）反輻射飛彈 等等",
+    "bomb": "各式航空炸彈雷霆精确制导炸弹（LT PGB）FT-2/3/6 飞腾精确制导炸弹（FT PGB）",
+    "rocket": "57毫米/90毫米口徑各類型航空火箭彈",
+    "other": "232H雷達（原型機、先導量產型）JL-10A 「神鷹」多普勒脈衝被動電子掃描陣列雷達（量產型）ECM莢艙"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822cc2d90b13ede8624192"
+  },
+  "country": "China",
+  "type": "戰鬥機",
+  "genre": "殲-20",
+  "Performance": {
+    "practical_ceiling": "18000米",
+    "maximum_range": "4000公里",
+    "combat_radius": "1500公里",
+    "wing_loading": "401公斤/平方米（82.3磅/平方英尺）",
+    "rolling_distance": "最小起飞滑跑距离： 350米\n最小着陆滑跑距离： 400－650米",
+    "maximum_speed": "2.3马赫（12000米)",
+    "maximum_ceiling": "16,000米（52,000英尺）",
+    "cruising_radius": "2,500公里",
+    "cruising_speed": "0.95馬赫",
+    "rate_of_climb": "海平面爬升率：330米/秒"
+  },
+  "Weapons": {
+    "missile": "R-60短程空對空導彈R-27中程空對空導彈R-73短程空對空導彈R-77中程空對空導彈AGM-88反輻射飛彈等等",
+    "bomb": "航空炸彈Mk 80系列炸彈（聯合直接攻擊彈藥）[2]",
+    "other": "Sorbtsiya ECM莢艙",
+    "cannon": "一門GSh-30-1機炮",
+    "rocket": "S-5航空火箭彈S-8航空火箭彈S-13航空火箭彈S-24航空火箭彈S-25航空火箭彈 等等"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822cd1d90b13ede8624193"
+  },
+  "country": "China",
+  "type": "戰鬥機",
+  "genre": "殲-35",
+  "Performance": {
+    "practical_ceiling": "18000米",
+    "maximum_range": "4000公里",
+    "combat_radius": "1500公里",
+    "wing_loading": "401公斤/平方米（82.3磅/平方英尺）",
+    "rolling_distance": "最小起飞滑跑距离： 350米\n最小着陆滑跑距离： 400－650米",
+    "maximum_speed": "2.3马赫（12000米)",
+    "maximum_ceiling": "16,000米（52,000英尺）",
+    "cruising_radius": "2,500公里",
+    "cruising_speed": "0.95馬赫",
+    "rate_of_climb": "海平面爬升率：330米/秒"
+  },
+  "Weapons": {
+    "missile": "R-60短程空對空導彈R-27中程空對空導彈R-73短程空對空導彈R-77中程空對空導彈AGM-88反輻射飛彈等等",
+    "bomb": "航空炸彈Mk 80系列炸彈（聯合直接攻擊彈藥）[2]",
+    "other": "Sorbtsiya ECM莢艙",
+    "cannon": "一門GSh-30-1機炮",
+    "rocket": "S-5航空火箭彈S-8航空火箭彈S-13航空火箭彈S-24航空火箭彈S-25航空火箭彈 等等"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822ce0d90b13ede8624194"
+  },
+  "country": "China",
+  "type": "戰鬥機",
+  "genre": "殲-16",
+  "Performance": {
+    "practical_ceiling": "18000米",
+    "maximum_range": "4000公里",
+    "combat_radius": "1500公里",
+    "wing_loading": "401公斤/平方米（82.3磅/平方英尺）",
+    "rolling_distance": "最小起飞滑跑距离： 350米\n最小着陆滑跑距离： 400－650米",
+    "maximum_speed": "2.3马赫（12000米)",
+    "maximum_ceiling": "16,000米（52,000英尺）",
+    "cruising_radius": "2,500公里",
+    "cruising_speed": "0.95馬赫",
+    "rate_of_climb": "海平面爬升率：330米/秒"
+  },
+  "Weapons": {
+    "missile": "R-60短程空對空導彈R-27中程空對空導彈R-73短程空對空導彈R-77中程空對空導彈AGM-88反輻射飛彈等等",
+    "bomb": "航空炸彈Mk 80系列炸彈（聯合直接攻擊彈藥）[2]",
+    "other": "Sorbtsiya ECM莢艙",
+    "cannon": "一門GSh-30-1機炮",
+    "rocket": "S-5航空火箭彈S-8航空火箭彈S-13航空火箭彈S-24航空火箭彈S-25航空火箭彈 等等"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822cefd90b13ede8624195"
+  },
+  "country": "China",
+  "type": "戰鬥機",
+  "genre": "殲-11",
+  "Performance": {
+    "practical_ceiling": "18000米",
+    "maximum_range": "4000公里",
+    "combat_radius": "1500公里",
+    "wing_loading": "401公斤/平方米（82.3磅/平方英尺）",
+    "rolling_distance": "最小起飞滑跑距离： 350米\n最小着陆滑跑距离： 400－650米",
+    "maximum_speed": "2.3马赫（12000米)",
+    "maximum_ceiling": "16,000米（52,000英尺）",
+    "cruising_radius": "2,500公里",
+    "cruising_speed": "0.95馬赫",
+    "rate_of_climb": "海平面爬升率：330米/秒"
+  },
+  "Weapons": {
+    "missile": "R-60短程空對空導彈R-27中程空對空導彈R-73短程空對空導彈R-77中程空對空導彈AGM-88反輻射飛彈等等",
+    "bomb": "航空炸彈Mk 80系列炸彈（聯合直接攻擊彈藥）[2]",
+    "other": "Sorbtsiya ECM莢艙",
+    "cannon": "一門GSh-30-1機炮",
+    "rocket": "S-5航空火箭彈S-8航空火箭彈S-13航空火箭彈S-24航空火箭彈S-25航空火箭彈 等等"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822cfed90b13ede8624196"
+  },
+  "country": "China",
+  "type": "戰鬥機",
+  "genre": "殲-10",
+  "Performance": {
+    "practical_ceiling": "18000米",
+    "maximum_range": "4000公里",
+    "combat_radius": "1500公里",
+    "wing_loading": "401公斤/平方米（82.3磅/平方英尺）",
+    "rolling_distance": "最小起飞滑跑距离： 350米\n最小着陆滑跑距离： 400－650米",
+    "maximum_speed": "2.3马赫（12000米)",
+    "maximum_ceiling": "16,000米（52,000英尺）",
+    "cruising_radius": "2,500公里",
+    "cruising_speed": "0.95馬赫",
+    "rate_of_climb": "海平面爬升率：330米/秒"
+  },
+  "Weapons": {
+    "missile": "R-60短程空對空導彈R-27中程空對空導彈R-73短程空對空導彈R-77中程空對空導彈AGM-88反輻射飛彈等等",
+    "bomb": "航空炸彈Mk 80系列炸彈（聯合直接攻擊彈藥）[2]",
+    "other": "Sorbtsiya ECM莢艙",
+    "cannon": "一門GSh-30-1機炮",
+    "rocket": "S-5航空火箭彈S-8航空火箭彈S-13航空火箭彈S-24航空火箭彈S-25航空火箭彈 等等"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822d0dd90b13ede8624197"
+  },
+  "country": "China",
+  "type": "戰鬥機",
+  "genre": "殲-8",
+  "Performance": {
+    "practical_ceiling": "18000米",
+    "maximum_range": "4000公里",
+    "combat_radius": "1500公里",
+    "wing_loading": "401公斤/平方米（82.3磅/平方英尺）",
+    "rolling_distance": "最小起飞滑跑距离： 350米\n最小着陆滑跑距离： 400－650米",
+    "maximum_speed": "2.3马赫（12000米)",
+    "maximum_ceiling": "16,000米（52,000英尺）",
+    "cruising_radius": "2,500公里",
+    "cruising_speed": "0.95馬赫",
+    "rate_of_climb": "海平面爬升率：330米/秒"
+  },
+  "Weapons": {
+    "missile": "R-60短程空對空導彈R-27中程空對空導彈R-73短程空對空導彈R-77中程空對空導彈AGM-88反輻射飛彈等等",
+    "bomb": "航空炸彈Mk 80系列炸彈（聯合直接攻擊彈藥）[2]",
+    "other": "Sorbtsiya ECM莢艙",
+    "cannon": "一門GSh-30-1機炮",
+    "rocket": "S-5航空火箭彈S-8航空火箭彈S-13航空火箭彈S-24航空火箭彈S-25航空火箭彈 等等"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822d1cd90b13ede8624198"
+  },
+  "country": "China",
+  "type": "戰鬥機",
+  "genre": "蘇-35SK",
+  "Performance": {
+    "practical_ceiling": "18000米",
+    "maximum_range": "4000公里",
+    "combat_radius": "1500公里",
+    "wing_loading": "401公斤/平方米（82.3磅/平方英尺）",
+    "rolling_distance": "最小起飞滑跑距离： 350米\n最小着陆滑跑距离： 400－650米",
+    "maximum_speed": "2.3马赫（12000米)",
+    "maximum_ceiling": "16,000米（52,000英尺）",
+    "cruising_radius": "2,500公里",
+    "cruising_speed": "0.95馬赫",
+    "rate_of_climb": "海平面爬升率：330米/秒"
+  },
+  "Weapons": {
+    "missile": "R-60短程空對空導彈R-27中程空對空導彈R-73短程空對空導彈R-77中程空對空導彈AGM-88反輻射飛彈等等",
+    "bomb": "航空炸彈Mk 80系列炸彈（聯合直接攻擊彈藥）[2]",
+    "other": "Sorbtsiya ECM莢艙",
+    "cannon": "一門GSh-30-1機炮",
+    "rocket": "S-5航空火箭彈S-8航空火箭彈S-13航空火箭彈S-24航空火箭彈S-25航空火箭彈 等等"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822d2ad90b13ede8624199"
+  },
+  "country": "China",
+  "type": "戰鬥機",
+  "genre": "蘇-30MK2",
+  "Performance": {
+    "practical_ceiling": "18000米",
+    "maximum_range": "4000公里",
+    "combat_radius": "1500公里",
+    "wing_loading": "401公斤/平方米（82.3磅/平方英尺）",
+    "rolling_distance": "最小起飞滑跑距离： 350米\n最小着陆滑跑距离： 400－650米",
+    "maximum_speed": "2.3马赫（12000米)",
+    "maximum_ceiling": "16,000米（52,000英尺）",
+    "cruising_radius": "2,500公里",
+    "cruising_speed": "0.95馬赫",
+    "rate_of_climb": "海平面爬升率：330米/秒"
+  },
+  "Weapons": {
+    "missile": "R-60短程空對空導彈R-27中程空對空導彈R-73短程空對空導彈R-77中程空對空導彈AGM-88反輻射飛彈等等",
+    "bomb": "航空炸彈Mk 80系列炸彈（聯合直接攻擊彈藥）[2]",
+    "other": "Sorbtsiya ECM莢艙",
+    "cannon": "一門GSh-30-1機炮",
+    "rocket": "S-5航空火箭彈S-8航空火箭彈S-13航空火箭彈S-24航空火箭彈S-25航空火箭彈 等等"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822d39d90b13ede862419a"
+  },
+  "country": "China",
+  "type": "戰鬥機",
+  "genre": "蘇-30MKK",
+  "Performance": {
+    "practical_ceiling": "18000米",
+    "maximum_range": "4000公里",
+    "combat_radius": "1500公里",
+    "wing_loading": "401公斤/平方米（82.3磅/平方英尺）",
+    "rolling_distance": "最小起飞滑跑距离： 350米\n最小着陆滑跑距离： 400－650米",
+    "maximum_speed": "2.3马赫（12000米)",
+    "maximum_ceiling": "16,000米（52,000英尺）",
+    "cruising_radius": "2,500公里",
+    "cruising_speed": "0.95馬赫",
+    "rate_of_climb": "海平面爬升率：330米/秒"
+  },
+  "Weapons": {
+    "missile": "R-60短程空對空導彈R-27中程空對空導彈R-73短程空對空導彈R-77中程空對空導彈AGM-88反輻射飛彈等等",
+    "bomb": "航空炸彈Mk 80系列炸彈（聯合直接攻擊彈藥）[2]",
+    "other": "Sorbtsiya ECM莢艙",
+    "cannon": "一門GSh-30-1機炮",
+    "rocket": "S-5航空火箭彈S-8航空火箭彈S-13航空火箭彈S-24航空火箭彈S-25航空火箭彈 等等"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822d48d90b13ede862419b"
+  },
+  "country": "China",
+  "type": "戰鬥機",
+  "genre": "蘇-27UBK",
+  "Performance": {
+    "practical_ceiling": "18000米",
+    "maximum_range": "4000公里",
+    "combat_radius": "1500公里",
+    "wing_loading": "401公斤/平方米（82.3磅/平方英尺）",
+    "rolling_distance": "最小起飞滑跑距离： 350米\n最小着陆滑跑距离： 400－650米",
+    "maximum_speed": "2.3马赫（12000米)",
+    "maximum_ceiling": "16,000米（52,000英尺）",
+    "cruising_radius": "2,500公里",
+    "cruising_speed": "0.95馬赫",
+    "rate_of_climb": "海平面爬升率：330米/秒"
+  },
+  "Weapons": {
+    "missile": "R-60短程空對空導彈R-27中程空對空導彈R-73短程空對空導彈R-77中程空對空導彈AGM-88反輻射飛彈等等",
+    "bomb": "航空炸彈Mk 80系列炸彈（聯合直接攻擊彈藥）[2]",
+    "other": "Sorbtsiya ECM莢艙",
+    "cannon": "一門GSh-30-1機炮",
+    "rocket": "S-5航空火箭彈S-8航空火箭彈S-13航空火箭彈S-24航空火箭彈S-25航空火箭彈 等等"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822d56d90b13ede862419c"
+  },
+  "country": "China",
+  "type": "直昇機",
+  "genre": "直-20",
+  "Performance": {},
+  "Weapons": {}
+},
+{
+  "_id": {
+    "$oid": "67822d5fd90b13ede862419d"
+  },
+  "country": "China",
+  "type": "直昇機",
+  "genre": "直-10",
+  "Performance": {},
+  "Weapons": {}
+},
+{
+  "_id": {
+    "$oid": "67822d67d90b13ede862419e"
+  },
+  "country": "China",
+  "type": "直昇機",
+  "genre": "直-8",
+  "Performance": {},
+  "Weapons": {}
+},
+{
+  "_id": {
+    "$oid": "67822d70d90b13ede862419f"
+  },
+  "country": "China",
+  "type": "直昇機",
+  "genre": "米-171",
+  "Performance": {},
+  "Weapons": {}
+},
+{
+  "_id": {
+    "$oid": "67822d78d90b13ede86241a0"
+  },
+  "country": "China",
+  "type": "直昇機",
+  "genre": "EC225",
+  "Performance": {},
+  "Weapons": {}
+},
+{
+  "_id": {
+    "$oid": "67822d80d90b13ede86241a1"
+  },
+  "country": "China",
+  "type": "直昇機",
+  "genre": "AS332",
+  "Performance": {},
+  "Weapons": {}
+},
+{
+  "_id": {
+    "$oid": "67822d88d90b13ede86241a2"
+  },
+  "country": "China",
+  "type": "教練機",
+  "genre": "教練-10",
+  "Performance": {
+    "rate_of_climb": "150 m/s",
+    "practical_ceiling": "16,500 m",
+    "maximum_range": "3,100 km",
+    "combat_radius": "550 km"
+  },
+  "Weapons": {
+    "cannon": "機腹機炮吊艙",
+    "missile": "小型空地導彈、 近距格鬥導彈、 中距主動空空導彈",
+    "bomb": "常規炸彈、 激光制導炸彈",
+    "other": "HB6096-SZ-01（ARINC429）資料鏈"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822d8dd90b13ede86241a3"
+  },
+  "country": "China",
+  "type": "教練機",
+  "genre": "教練-9",
+  "Performance": {
+    "rate_of_climb": "150 m/s",
+    "practical_ceiling": "16,500 m",
+    "maximum_range": "3,100 km",
+    "combat_radius": "550 km"
+  },
+  "Weapons": {
+    "cannon": "機腹機炮吊艙",
+    "missile": "小型空地導彈、 近距格鬥導彈、 中距主動空空導彈",
+    "bomb": "常規炸彈、 激光制導炸彈",
+    "other": "HB6096-SZ-01（ARINC429）資料鏈"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822d93d90b13ede86241a4"
+  },
+  "country": "China",
+  "type": "教練機",
+  "genre": "教練-8",
+  "Performance": {
+    "rate_of_climb": "150 m/s",
+    "practical_ceiling": "16,500 m",
+    "maximum_range": "3,100 km",
+    "combat_radius": "550 km"
+  },
+  "Weapons": {
+    "cannon": "機腹機炮吊艙",
+    "missile": "小型空地導彈、 近距格鬥導彈、 中距主動空空導彈",
+    "bomb": "常規炸彈、 激光制導炸彈",
+    "other": "HB6096-SZ-01（ARINC429）資料鏈"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822d98d90b13ede86241a5"
+  },
+  "country": "China",
+  "type": "教練機",
+  "genre": "初教-6",
+  "Performance": {
+    "rate_of_climb": "150 m/s",
+    "practical_ceiling": "16,500 m",
+    "maximum_range": "3,100 km",
+    "combat_radius": "550 km"
+  },
+  "Weapons": {
+    "cannon": "機腹機炮吊艙",
+    "missile": "小型空地導彈、 近距格鬥導彈、 中距主動空空導彈",
+    "bomb": "常規炸彈、 激光制導炸彈",
+    "other": "HB6096-SZ-01（ARINC429）資料鏈"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822dafd90b13ede86241a6"
+  },
+  "country": "China",
+  "type": "運輸機",
+  "genre": "運-20",
+  "Performance": {
+    "maximum_speed": "900公里／小時 ; 0.82馬赫（约490節）",
+    "practical_ceiling": "13,700米（45,000英尺）",
+    "maximum_range": "6,700公里（3,615海浬）（以Il-76T為準）",
+    "wing_loading": "566.7公斤/平方米（116.05磅/平方呎）（Il-76M/T）192.72磅/平方呎（Il-76MD/TD）",
+    "rolling_distance": "米（英尺）"
+  },
+  "Weapons": {
+    "cannon": "AM-23／GSh-23後射機炮"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822dbfd90b13ede86241a7"
+  },
+  "country": "China",
+  "type": "運輸機",
+  "genre": "運-12",
+  "Performance": {
+    "maximum_speed": "900公里／小時 ; 0.82馬赫（约490節）",
+    "practical_ceiling": "13,700米（45,000英尺）",
+    "maximum_range": "6,700公里（3,615海浬）（以Il-76T為準）",
+    "wing_loading": "566.7公斤/平方米（116.05磅/平方呎）（Il-76M/T）192.72磅/平方呎（Il-76MD/TD）",
+    "rolling_distance": "米（英尺）"
+  },
+  "Weapons": {
+    "cannon": "AM-23／GSh-23後射機炮"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822dcfd90b13ede86241a8"
+  },
+  "country": "China",
+  "type": "運輸機",
+  "genre": "運-9",
+  "Performance": {
+    "maximum_speed": "900公里／小時 ; 0.82馬赫（约490節）",
+    "practical_ceiling": "13,700米（45,000英尺）",
+    "maximum_range": "6,700公里（3,615海浬）（以Il-76T為準）",
+    "wing_loading": "566.7公斤/平方米（116.05磅/平方呎）（Il-76M/T）192.72磅/平方呎（Il-76MD/TD）",
+    "rolling_distance": "米（英尺）"
+  },
+  "Weapons": {
+    "cannon": "AM-23／GSh-23後射機炮"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822ddfd90b13ede86241a9"
+  },
+  "country": "China",
+  "type": "運輸機",
+  "genre": "運-8",
+  "Performance": {
+    "maximum_speed": "900公里／小時 ; 0.82馬赫（约490節）",
+    "practical_ceiling": "13,700米（45,000英尺）",
+    "maximum_range": "6,700公里（3,615海浬）（以Il-76T為準）",
+    "wing_loading": "566.7公斤/平方米（116.05磅/平方呎）（Il-76M/T）192.72磅/平方呎（Il-76MD/TD）",
+    "rolling_distance": "米（英尺）"
+  },
+  "Weapons": {
+    "cannon": "AM-23／GSh-23後射機炮"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822defd90b13ede86241aa"
+  },
+  "country": "China",
+  "type": "運輸機",
+  "genre": "運-7",
+  "Performance": {
+    "maximum_speed": "900公里／小時 ; 0.82馬赫（约490節）",
+    "practical_ceiling": "13,700米（45,000英尺）",
+    "maximum_range": "6,700公里（3,615海浬）（以Il-76T為準）",
+    "wing_loading": "566.7公斤/平方米（116.05磅/平方呎）（Il-76M/T）192.72磅/平方呎（Il-76MD/TD）",
+    "rolling_distance": "米（英尺）"
+  },
+  "Weapons": {
+    "cannon": "AM-23／GSh-23後射機炮"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822dfed90b13ede86241ab"
+  },
+  "country": "China",
+  "type": "運輸機",
+  "genre": "運-5",
+  "Performance": {
+    "maximum_speed": "900公里／小時 ; 0.82馬赫（约490節）",
+    "practical_ceiling": "13,700米（45,000英尺）",
+    "maximum_range": "6,700公里（3,615海浬）（以Il-76T為準）",
+    "wing_loading": "566.7公斤/平方米（116.05磅/平方呎）（Il-76M/T）192.72磅/平方呎（Il-76MD/TD）",
+    "rolling_distance": "米（英尺）"
+  },
+  "Weapons": {
+    "cannon": "AM-23／GSh-23後射機炮"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822e0ed90b13ede86241ac"
+  },
+  "country": "China",
+  "type": "運輸機",
+  "genre": "伊爾-76",
+  "Performance": {
+    "maximum_speed": "900公里／小時 ; 0.82馬赫（约490節）",
+    "practical_ceiling": "13,700米（45,000英尺）",
+    "maximum_range": "6,700公里（3,615海浬）（以Il-76T為準）",
+    "wing_loading": "566.7公斤/平方米（116.05磅/平方呎）（Il-76M/T）192.72磅/平方呎（Il-76MD/TD）",
+    "rolling_distance": "米（英尺）"
+  },
+  "Weapons": {
+    "cannon": "AM-23／GSh-23後射機炮"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822e1ed90b13ede86241ad"
+  },
+  "country": "China",
+  "type": "運輸機",
+  "genre": "圖-154",
+  "Performance": {
+    "maximum_speed": "900公里／小時 ; 0.82馬赫（约490節）",
+    "practical_ceiling": "13,700米（45,000英尺）",
+    "maximum_range": "6,700公里（3,615海浬）（以Il-76T為準）",
+    "wing_loading": "566.7公斤/平方米（116.05磅/平方呎）（Il-76M/T）192.72磅/平方呎（Il-76MD/TD）",
+    "rolling_distance": "米（英尺）"
+  },
+  "Weapons": {
+    "cannon": "AM-23／GSh-23後射機炮"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822e2ed90b13ede86241ae"
+  },
+  "country": "China",
+  "type": "運輸機",
+  "genre": "波音737",
+  "Performance": {
+    "maximum_speed": "900公里／小時 ; 0.82馬赫（约490節）",
+    "practical_ceiling": "13,700米（45,000英尺）",
+    "maximum_range": "6,700公里（3,615海浬）（以Il-76T為準）",
+    "wing_loading": "566.7公斤/平方米（116.05磅/平方呎）（Il-76M/T）192.72磅/平方呎（Il-76MD/TD）",
+    "rolling_distance": "米（英尺）"
+  },
+  "Weapons": {
+    "cannon": "AM-23／GSh-23後射機炮"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822e3ed90b13ede86241af"
+  },
+  "country": "China",
+  "type": "運輸機",
+  "genre": "空中客車A319",
+  "Performance": {
+    "maximum_speed": "900公里／小時 ; 0.82馬赫（约490節）",
+    "practical_ceiling": "13,700米（45,000英尺）",
+    "maximum_range": "6,700公里（3,615海浬）（以Il-76T為準）",
+    "wing_loading": "566.7公斤/平方米（116.05磅/平方呎）（Il-76M/T）192.72磅/平方呎（Il-76MD/TD）",
+    "rolling_distance": "米（英尺）"
+  },
+  "Weapons": {
+    "cannon": "AM-23／GSh-23後射機炮"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822e4ed90b13ede86241b0"
+  },
+  "country": "China",
+  "type": "運輸機",
+  "genre": "龐巴迪CRJ",
+  "Performance": {
+    "maximum_speed": "900公里／小時 ; 0.82馬赫（约490節）",
+    "practical_ceiling": "13,700米（45,000英尺）",
+    "maximum_range": "6,700公里（3,615海浬）（以Il-76T為準）",
+    "wing_loading": "566.7公斤/平方米（116.05磅/平方呎）（Il-76M/T）192.72磅/平方呎（Il-76MD/TD）",
+    "rolling_distance": "米（英尺）"
+  },
+  "Weapons": {
+    "cannon": "AM-23／GSh-23後射機炮"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822e54d90b13ede86241b1"
+  },
+  "country": "China",
+  "type": "空中加油機",
+  "genre": "運油-20",
+  "Performance": {
+    "maximum_speed": "约 0.77馬赫",
+    "practical_ceiling": "12,000米",
+    "maximum_range": "6,700公里（3,615海浬）",
+    "wing_loading": "公斤/平方米(   磅/平方呎)",
+    "rolling_distance": "米 (  英尺)"
+  },
+  "Weapons": {
+    "cannon": "6-7具AM-23型23公釐雷達控制機砲",
+    "missile": "空对地导弹：Kh-20、Kh-22Kh-26、Kh-55、CJ10、CJ20、YJ12、YJ83",
+    "bomb": "60枚FAB-250航空炸彈，或30枚FAB-500炸彈。",
+    "other": "最大空中加油能力为1.3吨/分钟"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822e58d90b13ede86241b2"
+  },
+  "country": "China",
+  "type": "空中加油機",
+  "genre": "轟油-6",
+  "Performance": {
+    "maximum_speed": "约 0.77馬赫",
+    "practical_ceiling": "12,000米",
+    "maximum_range": "6,700公里（3,615海浬）",
+    "wing_loading": "公斤/平方米(   磅/平方呎)",
+    "rolling_distance": "米 (  英尺)"
+  },
+  "Weapons": {
+    "cannon": "6-7具AM-23型23公釐雷達控制機砲",
+    "missile": "空对地导弹：Kh-20、Kh-22Kh-26、Kh-55、CJ10、CJ20、YJ12、YJ83",
+    "bomb": "60枚FAB-250航空炸彈，或30枚FAB-500炸彈。",
+    "other": "最大空中加油能力为1.3吨/分钟"
+  }
+},
+{
+  "_id": {
+    "$oid": "67822e5dd90b13ede86241b3"
+  },
+  "country": "China",
+  "type": "空中加油機",
+  "genre": "伊爾-78",
+  "Performance": {
+    "maximum_speed": "约 0.77馬赫",
+    "practical_ceiling": "12,000米",
+    "maximum_range": "6,700公里（3,615海浬）",
+    "wing_loading": "公斤/平方米(   磅/平方呎)",
+    "rolling_distance": "米 (  英尺)"
+  },
+  "Weapons": {
+    "cannon": "6-7具AM-23型23公釐雷達控制機砲",
+    "missile": "空对地导弹：Kh-20、Kh-22Kh-26、Kh-55、CJ10、CJ20、YJ12、YJ83",
+    "bomb": "60枚FAB-250航空炸彈，或30枚FAB-500炸彈。",
+    "other": "最大空中加油能力为1.3吨/分钟"
+  }
+}]
