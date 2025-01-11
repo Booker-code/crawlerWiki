@@ -89,7 +89,7 @@ if __name__ == "__main__":
         schedule.run_pending()
         time.sleep(1)
         
-        # 用戶模擬輸入查詢
+        # 用戶輸入查詢
         search_keyword = input("請輸入關鍵字進行搜索,輸入exit離開: ")
         if search_keyword == "exit":
             break
