@@ -1,7 +1,7 @@
 from pymongo import MongoClient
 import redis
 import json
-from bson import ObjectId  # 用於處理 ObjectId
+from bson import ObjectId
 from datetime import datetime
 import schedule  # 排程
 import time
@@ -11,10 +11,11 @@ mongo_client = MongoClient("mongodb://localhost:27017/")
 db = mongo_client["Demo"]
 collection = db["Demo"]
 
+# 這裡檢查 Redis 是否可用，若不可用則完全跳過 Redis 的使用
+redis_client = None
 try:
     redis_client = redis.StrictRedis(host='localhost', port=6379, decode_responses=True)
-    # 嘗試連接 Redis，若失敗則回退至 MongoDB
-    redis_client.ping()
+    redis_client.ping()  # 嘗試 ping Redis
     print("Redis 連接成功")
 except (redis.ConnectionError, redis.RedisError) as e:
     print(f"Redis 連接失敗，錯誤訊息: {str(e)}")
@@ -51,7 +52,7 @@ def search_keyword_in_cache(keyword):
             # 嘗試從 Redis 搜索
             for key in redis_client.scan_iter():  # 掃描所有 key
                 value = json.loads(redis_client.get(key))  # 從 Redis 獲取並解析 JSON
-                if keyword.lower() in value["type"].lower() or keyword.lower() in value["genre"].lower():
+                if keyword.lower() in value.get("type", "").lower() or keyword.lower() in value.get("genre", "").lower():
                     result.append(value)
             if not result:
                 raise ValueError("No results from Redis, fallback to MongoDB.")
@@ -82,7 +83,8 @@ schedule.every(30).minutes.do(load_data_to_redis)
 # 主程式
 if __name__ == "__main__":
     # 初次加載資料
-    load_data_to_redis()
+    if redis_client:
+        load_data_to_redis()
 
     # 啟動排程
     while True:
